@@ -1,0 +1,50 @@
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\bin\Debug\TCM.exe.config
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\bin\Debug\TCM.exe
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\bin\Debug\TCM.pdb
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.csprojAssemblyReference.cache
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.Form2.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.Properties.Resources.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.csproj.GenerateResource.cache
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.csproj.CoreCompileInputs.cache
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.exe
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.pdb
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.inicio.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.novocliente.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.funcionario.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.entrega.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.banho_e_tosa.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.telacliente.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.cliente.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.produtos.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.telalogin.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.telaSplash.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.telaclienteprodutos.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.vendadeprodutos.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.vendas.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.suporte.resources
+C:\Users\kauav\Desktop\etec\TCMOFC\TCM\TCM\obj\Debug\TCM.banho_e_tosa_cliente.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\bin\Debug\TCM.exe.config
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\bin\Debug\TCM.exe
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\bin\Debug\TCM.pdb
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.csprojAssemblyReference.cache
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.banho_e_tosa_cliente.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.banho_e_tosa.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.cliente.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.entrega.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.suporte.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.telaclienteprodutos.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.telalogin.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.Form2.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.vendadeprodutos.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.funcionario.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.inicio.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.novocliente.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.produtos.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.Properties.Resources.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.telacliente.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.telaSplash.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.vendas.resources
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.csproj.GenerateResource.cache
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.csproj.CoreCompileInputs.cache
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.exe
+C:\Users\kauav\Desktop\etec\TCM Primeiro modulo\TCM\TCM\obj\Debug\TCM.pdb
